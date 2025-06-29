@@ -1,4 +1,7 @@
 # Microsoft-Security-Incident-Prediction🔒
-Can you predict the next big security incident before it happens?
 
-![Security Prediction Illustration](Image1.png)
+<p style="font-size:25px;">
+  Can you predict the next big security incident before it happens?
+</p>
+
+<img src="Image1.png" alt="Security Prediction Illustration" width="400"/>
