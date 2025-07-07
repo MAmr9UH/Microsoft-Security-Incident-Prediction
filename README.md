@@ -8,6 +8,27 @@
 
 
 
+Overview
+
+This repository contains Microsoft_Security.ipynb, a Jupyter Notebook that walks through an end‑to‑end workflow for turning raw Microsoft security alert telemetry into a binary incident‑grade classifier. The goal is to distinguish TruePositive (confirmed threat) alerts from False Positive noise so that analysts can focus on what matters.
+
+Key steps covered:
+
+Data ingestion & light cleaning of >9 million alert records
+
+Exploratory Data Analysis (EDA) with visualisations 
+
+Feature engineering for MITRE techniques, geographic codes, timestamps, roles, and alert metadata
+
+Model development using a RandomForestClassifier with class balancing & hyper‑parameter tuning (grid search + cross‑validation)
+
+Performance evaluation with ROC‑AUC and feature‑importance inspection
+
+Practical notes & lessons learned for handling very large security datasets
+
+
+
+The Data is 9 Million Rows and 46 Columns
 #### Data www.kaggle.com/datasets/Microsoft/microsoft-security-incident-prediction/data
 
 
