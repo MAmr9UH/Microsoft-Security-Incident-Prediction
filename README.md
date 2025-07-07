@@ -14,6 +14,6 @@
 
 
 
-<img src="Random_Forest.png" alt="Security Prediction Illustration" width="600"/>
+
 
 <img src="ROC-CV.png" alt="Security Prediction Illustration" width="600"/>
