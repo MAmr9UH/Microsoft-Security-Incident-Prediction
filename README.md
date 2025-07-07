@@ -9,3 +9,6 @@
 ## Can you predict the next big security incident before it happens?
 
 #### Data www.kaggle.com/datasets/Microsoft/microsoft-security-incident-prediction/data
+
+
+<img src="ROC-CV.png" alt="Security Prediction Illustration" width="600"/>
